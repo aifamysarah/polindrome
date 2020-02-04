@@ -1,0 +1,2 @@
+# polindrome
+contohpalindrome
